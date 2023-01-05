@@ -50,10 +50,7 @@ Documentação das APIs de apresentação do projeto:
 
 **1.** Acesse o link e baixe o repositório: https://github.com/samuelcms/Social-Post-Manager-2023
 
-**2.** Para buscar uma notícia selecione o botão "Buscar" na página principal, selecione as informações desejadas e preencha o formulário na seção de postagem. Para efetivar o post, clique no botão "Postar". 
-
-<img src="https://user-images.githubusercontent.com/44274148/210898272-ad47ec94-cc7a-464d-8ddd-f103ad19cfee.png" width="550" height="450">
-
+**2.** Para buscar uma notícia selecione o botão "Buscar" na página principal, selecione as informações desejadas e preencha o formulário na seção de postagem. Para efetivar o post, clique no botão "Postar".  Veja instruções no vídeo abaixo:
 
 https://user-images.githubusercontent.com/44274148/210899254-137f0624-4464-456e-ace4-f7dbe09e3ade.mp4
 
