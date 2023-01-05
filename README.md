@@ -4,7 +4,7 @@ Trabalho prático da disciplina Web Services. O projeto combina duas APIs ([Ayrs
 
 
 Página de apresentação do projeto:
-   - https://gnupg.readthedocs.io/en/latest/
+   - #
 
 Documentação das APIs de apresentação do projeto:
 
