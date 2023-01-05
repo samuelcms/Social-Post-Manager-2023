@@ -12,22 +12,22 @@ Documentação das APIs de apresentação do projeto:
   - Mediastack: https://mediastack.com/documentation
 
 
-## Instruções
+# Instruções
 
 ### Obtendo chave de acesso API Ayrshare:
 
 <img src="https://www.ayrshare.com/wp-content/uploads/2020/08/ayr-logo-2156-reduced.png" width="400">
 
-
 **1.** Acesse o link e crie sua conta gratuitamente: https://app.ayrshare.com
 
    <img src="https://www.ayrshare.com/wp-content/uploads/2021/07/ayrshare-login.jpg" width="400" height="400">
    
-**2.** Enable your social media accounts such as Twitter, Facebook, LinkedIn, Reddit, Instagram, Google My Business, Telegram, TikTok, or YouTube in the Ayrshare dashboard.
+**2.** Ative suas contas de mídia social como Twitter, Facebook, LinkedIn, Reddit, Instagram, Google My Business, Telegram, TikTok ou YouTube no painel Ayrshare.
 
-   ![alt Social Accounts Setup](https://www.ayrshare.com/wp-content/uploads/social-api-linking.jpg)
+   <img src="https://www.ayrshare.com/wp-content/uploads/social-api-linking.jpg" width="400" height="400">
   
-**3.** Copy your API Key from the Ayrshare dashboard. Used for authentication.
-
-   ![alt API Key](https://www.ayrshare.com/wp-content/uploads/social-api-key.jpg)
+**3.** Copie sua chave de API do painel Ayrshare. Usado para autenticação.
+   
+   <img src="https://www.ayrshare.com/wp-content/uploads/social-api-key.jpg" width="400" height="400">
+   
 
