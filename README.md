@@ -24,10 +24,10 @@ Documentação das APIs de apresentação do projeto:
    
 **2.** Ative suas contas de mídia social como Twitter, Facebook, LinkedIn, Reddit, Instagram, Google My Business, Telegram, TikTok ou YouTube no painel Ayrshare.
 
-   <img src="https://www.ayrshare.com/wp-content/uploads/social-api-linking.jpg" width="400" height="750">
+   <img src="https://www.ayrshare.com/wp-content/uploads/social-api-linking.jpg" width="750" height="400">
   
 **3.** Sua chave de acesso estará no menu "Api Key".
    
-   <img src="https://www.ayrshare.com/wp-content/uploads/social-api-key.jpg" width="400" height="750">
+   <img src="https://www.ayrshare.com/wp-content/uploads/social-api-key.jpg" width="750" height="400">
    
 
