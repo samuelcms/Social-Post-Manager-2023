@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+
+<html lang="pt-BR">
+    
+    <head>
+    
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <meta name="description" content="" />
+        <meta name="author" content="" />
+        <title>TPWS</title>
+        
+        <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
+        <link href="css/styles.css" rel="stylesheet" />
+    
+    </head>
+    
+    <body>
+        
+        <div class="d-flex" id="wrapper">
+        
+            <div class="border-end bg-white" id="sidebar-wrapper">
+
+                <div class="sidebar-heading border-bottom bg-light text-center">Filtrar Notícias</div>
+                
+                <div class="list-group list-group-flush">
+                    
+                    <div class="d-flex flex-column justify-content-center container-fluid" style="height: 50px;"> País </div>
+                    <div class="d-flex justify-content-center">
+                        <select class="form-select" aria-label = "Default select example" style="width: 220px;" id="country">
+                            <option selected value="">Selecione</option>
+                            <option value="za">África do Sul</option> 
+                            <option value="de">Alemanha</option> 
+                            <option value="sa">Arábia Saudita</option>
+                            <option value="ar">Argentina</option>
+                            <option value="au">Austrália</option> 
+                            <option value="at">Áustria</option> 
+                            <option value="be">Bélgica</option>
+                            <option value="br">Brasil</option> 
+                            <option value="bg">Bulgária</option> 
+                            <option value="ca">Canadá</option> 
+                            <option value="cn">China</option>
+                            <option value="co">Colômbia</option> 
+                            <option value="kr">Coréia do Sul</option> 
+                            <option value="eg">Egito</option> 
+                            <option value="ae">Emirados Árabes Unidos</option>
+                            <option value="sk">Eslováquia</option> 
+                            <option value="si">Eslovênia</option>
+                            <option value="us">Estados Unidos</option> 
+                            <option value="ph">Filipinas</option>
+                            <option value="fr">França</option>
+                            <option value="gr">Grécia</option> 
+                            <option value="nl">Holanda</option>
+                            <option value="hk">Hong Kong</option> 
+                            <option value="hu">Hungria</option>
+                            <option value="in">Índia</option> 
+                            <option value="id">Indonésia</option> 
+                            <option value="ie">Irlanda</option> 
+                            <option value="il">Israel</option>
+                            <option value="it">Itália</option> 
+                            <option value="jp">Japão</option> 
+                            <option value="lv">Letônia</option> 
+                            <option value="lt">Lituânia</option>
+                            <option value="my">Malásia</option> 
+                            <option value="ma">Marrocos</option> 
+                            <option value="mx">Mexico</option> 
+                            <option value="ng">Nigéria</option> 
+                            <option value="no">Noruega</option> 
+                            <option value="nz">Nova Zelândia</option> 
+                            <option value="pl">Polônia</option> 
+                            <option value="pt">Portugal</option> 
+                            <option value="gb">Reino Unido</option> 
+                            <option value="cz">República Tcheca</option> 
+                            <option value="ro">Romênia</option> 
+                            <option value="rs">Sérvia</option> 
+                            <option value="sg">Singapura</option> 
+                            <option value="se">Suécia</option> 
+                            <option value="ch">Suíça</option>
+                            <option value="th">Tailândia</option> 
+                            <option value="tw">Taiwan</option> 
+                            <option value="tr">Turquia</option> 
+                            <option value="uk">Ucrânia</option> 
+                            <option value="ve">Venuzuela</option>                        
+                        </select>
+                    </div>
+
+                    <div class="d-flex flex-column justify-content-center container-fluid" style="height: 50px;"> Idioma </div>
+                    <div class="d-flex justify-content-center">
+                        <select class="form-select" aria-label = "Default select example" style="width: 220px;" id="language">
+                            <option selected value="">Selecione</option>
+                            <option value="de">Alemão</option> 
+                            <option value="zh">Chinês</option> 
+                            <option value="es">Espanhol</option> 
+                            <option value="fr">Francês</option>                        
+                            <option value="he">Hebraico</option>                        
+                            <option value="nl">Holandês</option>                        
+                            <option value="en">Inglês</option>                        
+                            <option value="it">Italiano</option>                        
+                            <option value="no">Norueguês</option>                        
+                            <option value="pt">Português</option>                        
+                            <option value="ru">Russo</option>                        
+                            <option value="se">Sueco</option>                                
+                        </select>
+                    </div>
+                    
+                    <div class="d-flex flex-column justify-content-center container-fluid" style="height: 50px;">Categoria</div>
+                    <div class="d-flex justify-content-center">
+                        <select class="form-select" aria-label = "Default select example" style="width: 220px;" id="category">
+                            <option selected value="">Selecione</option>
+                            <option value="general">Geral</option> 
+                            <option value="business">Negócios</option> 
+                            <option value="entertainment">Entretenimento</option> 
+                            <option value="health">Saúde</option>                        
+                            <option value="health">Ciência</option>                        
+                            <option value="sports">Esportes</option>                        
+                            <option value="technology">Tecnologia</option>                        
+                        </select>
+                    </div>
+                                              
+                    <div class="d-flex flex-column justify-content-center container-fluid" style="height: 70px;" id="popularity">
+                        <div class="form-check form-switch">
+                            <input class="form-check-input" type="checkbox" role="switch" id="flexSwitchCheckDefault" />
+                            <label class="form-check-label" for="flexSwitchCheckDefault">Mais populares</label>
+                        </div>
+                    </div>
+
+                    <div class="d-flex flex-column justify-content-center container-fluid" style="height: 100px; width: 80%;" id="clearFilter">
+                        <button type="button" class="btn btn btn-secondary">Limpar filtros</button>
+                    </div>       
+                                
+                </div>
+            
+            </div>
+            
+            <div id="page-content-wrapper">
+            
+                <nav class="navbar navbar-expand-sm navbar-light bg-light border-bottom">
+                    <div class="container-fluid">
+                        <button class="btn btn-info" id="sidebarToggle">Menu</button>
+                    </div>
+                </nav>
+
+                <!-- Page content-->
+                
+                <div class="d-flex flex-column text-center" style="height: 80px;">
+                    <h1 class="mt-4">Notícias</h1>
+                </div>
+                
+                <div class=" d-flex flex-column container-fluid overflow-auto p-3" style="width: 95%; height: 70vh; background-color: azure;" id="newsFeed">
+              
+               </div>
+
+                <div class="d-flex container flex-column justify-content-center" style="width: 95%; height: 55px; background-color: white;">
+                    <div class="col-md-12 text-center">
+                        <button type="button" class="btn btn-secondary" id="clearNews">Limpar</button>
+                        <button type="button" class="btn btn-info" id="searchNews">Buscar</button>
+                        
+                    </div>
+                </div>
+
+                <div class="d-flex flex-column text-center" style="height: 80px;">
+                    <h1 class="mt-4">Postagem</h1>
+                </div>
+
+                <!-- <div class=" d-flex flex-column container-fluid overflow-auto p-3" style="width: 95%; height: 70vh; background-color: white;" id="newsFeed"> -->
+                <div class=" d-flex flex-column container-fluid overflow-auto p-3" style="width: 95%; height: 51vh; background-color: white;" id="newsFeed">
+                    
+                    <form id="formPost"> 
+                                            
+                        <!-- <div class="form-outline mb-4">
+                            <input type="text" class="form-control" id="author"/>
+                            <label>Autor</label>
+                        </div> -->
+                    
+                        <div class="form-outline mb-4">
+                            <input type="text" class="form-control" id="title"/>
+                            <label>Título</label>
+                        </div>
+                    
+                        <!-- <div class="form-outline mb-4">
+                            <textarea class="form-control" id="form6Example7" rows="4" id="description"></textarea>
+                            <label>Descrição</label>
+                        </div>
+                    
+                        <div class="form-outline mb-4">
+                            <input type="text" id="form6Example3" class="form-control" id="source"/>
+                            <label>Fonte</label>
+                        </div> -->
+                    
+                        <div class="form-outline mb-4">
+                            <input type="text" class="form-control" id="urlSource"/>
+                            <label>URL (Matéria)</label>
+                        </div>
+
+                        <div class="form-outline mb-4">
+                            <input type="text" class="form-control" id="urlImg"/>
+                            <label>URL (Imagem)</label>
+                        </div>
+                        
+                        <div class="d-flex justify-content-center">
+                            <select class="form-select" aria-label = "Default select example" style="width: 40%;" id="socialMedia">
+                                <option selected value="">Selecione</option>
+                                <option value="facebook">Facebok Page</option> 
+                                <option value="fbg">Facebook Group</option> 
+                                <option value="gmb">Google My Business</option> 
+                                <option value="instagram">Instagram</option>                        
+                                <option value="linkedin">LinkedIn</option>                        
+                                <option value="pinterest">Pinterest</option>                        
+                                <option value="reddit">Reddit</option>                        
+                                <option value="telegram">Telegram</option>                        
+                                <option value="twitter">Twitter</option>                      
+                            </select>
+                        </div>
+                        <label class="col-md-12 text-center">Rede Social</label>
+                         
+                    </form>
+                </div>
+                <div class="d-flex container flex-column justify-content-center" style="width: 95%; height: 55px; background-color: white;">
+                    <div class="col-md-12 text-center">
+                        <button type="button" class="btn btn-secondary" id="clearForm">Limpar</button>
+                        <button type="button" class="btn btn-info" id="postNews">Publicar</button>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+        <!-- Bootstrap core JS-->
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+        <!-- Core theme JS-->
+        <script src="js/scripts.js"></script>
+        <script src="js/myscript.js"></script>
+    </body>
+</html>
