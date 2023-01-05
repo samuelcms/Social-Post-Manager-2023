@@ -1,6 +1,6 @@
 // Chaves de acesso das APIs.
-const MEDIASTACK_KEY = "1feaf066fc024db9b49cbffeae70461d";
-const AYRSHARE_KEY = "MGVPMF0-RDRMFHT-QRSBN4Q-SRFY8JJ";
+const MEDIASTACK_KEY = "";
+const AYRSHARE_KEY = "";
 
 // URL API Medistack
 URL_MEDIASTACK = "http://api.mediastack.com/v1/news?access_key="
