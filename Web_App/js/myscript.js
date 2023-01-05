@@ -157,12 +157,10 @@ postNewsBtn.addEventListener('click', ()=>
         {
         
             method: 'POST',
-            headers: cabecalho,             //{'Content-Type': 'application/json', 'Authorization': 'Bearer MGVPMF0-RDRMFHT-QRSBN4Q-SRFY8JJ'},
-            body: JSON.stringify(noticia)   //({'post': POSTAGEM, 'platforms': ['twitter'], 'mediaUrls': [URL_IMG]})
+            headers: cabecalho,             
+            body: JSON.stringify(noticia)   
         
         }).then(response => response.json()).then(data => processarResultado(data))
-
-        //.then(alert("Postagem concluída.")).then(alert("Não foi possível concluir a postagem."))
     }
 );
 
