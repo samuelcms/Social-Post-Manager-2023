@@ -54,6 +54,11 @@ Documentação das APIs de apresentação do projeto:
 
 <img src="https://user-images.githubusercontent.com/44274148/210898272-ad47ec94-cc7a-464d-8ddd-f103ad19cfee.png" width="550" height="450">
 
+
+https://user-images.githubusercontent.com/44274148/210899254-137f0624-4464-456e-ace4-f7dbe09e3ade.mp4
+
+
+
 - **Atenção:** O plano gratuito da API Ayrshare suporta apenas requisições **http**, portanto, é recomendável que seja utilizado o navegador [Firefox](https://www.mozilla.org/pt-BR/firefox/new/), ou então desative o redirecionamento de conexões **https** em seu navegador.
 
 
