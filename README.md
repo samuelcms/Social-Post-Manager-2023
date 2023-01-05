@@ -18,8 +18,6 @@ Documentação das APIs de apresentação do projeto:
 
 <img src="https://www.ayrshare.com/wp-content/uploads/2020/08/ayr-logo-2156-reduced.png" width="400">
 
-<img src="https://mediastack.com/site_images/mediastack_logo_white.svg" width="400">
-
 
 **1.** Acesse o link e crie sua conta gratuitamente: https://app.ayrshare.com
 
@@ -33,4 +31,31 @@ Documentação das APIs de apresentação do projeto:
    
    <img src="https://www.ayrshare.com/wp-content/uploads/social-api-key.jpg" width="650" height="400">
    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### Obtendo chave de acesso API Mediastack:
+
+<img src="https://mediastack.com/site_images/mediastack_logo_white.svg" width="400">
+
+
+**1.** Acesse o link e crie sua conta gratuitamente: https://mediastack.com/signup/free
+
+   <img src="https://user-images.githubusercontent.com/44274148/210889726-859d7efb-abe4-43a9-90f4-892c2c1d93b2.png" width="400" height="800">
+     
+**2.** Sua chave de acesso estará no menu "Dashboard".
+   
+   <img src="https://www.ayrshare.com/wp-content/uploads/social-api-key.jpg" width="650" height="400">
 
