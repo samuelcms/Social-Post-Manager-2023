@@ -18,6 +18,9 @@ Documentação das APIs de apresentação do projeto:
 
 <img src="https://www.ayrshare.com/wp-content/uploads/2020/08/ayr-logo-2156-reduced.png" width="400">
 
+<img src="https://mediastack.com/site_images/mediastack_logo_white.svg" width="400">
+
+
 **1.** Acesse o link e crie sua conta gratuitamente: https://app.ayrshare.com
 
    <img src="https://www.ayrshare.com/wp-content/uploads/2021/07/ayrshare-login.jpg" width="400" height="400">
