@@ -53,7 +53,7 @@ Documentação das APIs de apresentação do projeto:
 
 **1.** Acesse o link e crie sua conta gratuitamente: https://mediastack.com/signup/free
 
-   <img src="https://user-images.githubusercontent.com/44274148/210889726-859d7efb-abe4-43a9-90f4-892c2c1d93b2.png" width="400" height="800">
+   <img src="https://user-images.githubusercontent.com/44274148/210889726-859d7efb-abe4-43a9-90f4-892c2c1d93b2.png" width="650" height="800">
      
 **2.** Sua chave de acesso estará no menu "Dashboard".
    
