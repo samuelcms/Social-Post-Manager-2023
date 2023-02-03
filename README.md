@@ -39,7 +39,7 @@ Documentação das APIs de apresentação do projeto:
    
    <img src="https://www.ayrshare.com/wp-content/uploads/social-api-key.jpg" width="650" height="400">
    
-   
+#   
    
 ### Obtendo chave de acesso API Mediastack:
 
