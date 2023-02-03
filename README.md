@@ -14,6 +14,14 @@ Documentação das APIs de apresentação do projeto:
 
 # Instruções
 
+### Obtendo o arquivo CSS da página:
+
+**1.** Acesse o link e faça o download do arquivo compactado: https://startbootstrap.com/template/simple-sidebar
+
+**2.** Descompacte o arquivo baixado, acesse a pasta *css* e copie arquivo *style.css* para a pasta *css* do projeto.
+
+
+
 ### Obtendo chave de acesso API Ayrshare:
 
 <img src="https://www.ayrshare.com/wp-content/uploads/2020/08/ayr-logo-2156-reduced.png" width="400">
