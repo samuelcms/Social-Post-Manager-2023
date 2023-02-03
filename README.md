@@ -20,7 +20,7 @@ Documentação das APIs de apresentação do projeto:
 
 **2.** Descompacte o arquivo baixado, acesse a pasta *css* e copie arquivo *style.css* para a pasta *css* do projeto.
 
-
+#
 
 ### Obtendo chave de acesso API Ayrshare:
 
