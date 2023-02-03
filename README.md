@@ -18,7 +18,7 @@ Documentação das APIs de apresentação do projeto:
 
 **1.** Acesse o link e faça o download do arquivo compactado: https://startbootstrap.com/template/simple-sidebar
 
-**2.** Descompacte o arquivo baixado, vá até a pasta **css** e copie arquivo ```style.css``` para a pasta **css** do projeto.
+**2.** Descompacte o arquivo baixado, vá até a pasta ``css`` e copie arquivo ```style.css``` para a pasta ``css`` do projeto.
 
 #
 
