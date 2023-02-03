@@ -1,1 +1,1 @@
-Mova o arquivo CSS baixado de "https://startbootstrap.com/template/simple-sidebar" para esta pasata.
+Mova o arquivo CSS baixado de "https://startbootstrap.com/template/simple-sidebar" para esta pasta.
