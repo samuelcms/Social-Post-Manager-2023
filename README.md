@@ -64,6 +64,6 @@ https://user-images.githubusercontent.com/44274148/210899254-137f0624-4464-456e-
 
 
 
-- **Atenção:** O plano gratuito da API Ayrshare suporta apenas requisições **http**, portanto, é recomendável que seja utilizado o navegador [Firefox](https://www.mozilla.org/pt-BR/firefox/new/), ou então desative o redirecionamento de conexões **https** em seu navegador.
+- **Atenção:** O plano gratuito da API Ayrshare suporta apenas requisições **http**, portanto, é recomendável que o projeto seja executado no navegador [Firefox](https://www.mozilla.org/pt-BR/firefox/new/), ou então, desative o redirecionamento de conexões **https** em seu navegador preferido.
 
 
