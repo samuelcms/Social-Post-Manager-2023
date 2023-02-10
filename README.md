@@ -4,7 +4,7 @@ Trabalho prático da disciplina Web Services. O projeto combina duas APIs ([Ayrs
 
 
 Página de apresentação do projeto:
-   - https://samuelcms.github.io/
+   - https://samuelcms.github.io/tpws/
 
 Documentação das APIs de apresentação do projeto:
 
